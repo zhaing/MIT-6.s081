@@ -1,0 +1,2 @@
+In the put function, both threads run to insert at the same time, and execute the insert entry creation operation at the same time, then the previous assigned entry will be overwritten by the latter and disappear
+
